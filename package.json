@@ -1,0 +1,18 @@
+{
+  "name": "banned-passwords",
+  "version": "1.0.0",
+  "description": "Check for banned passwords. Based on twitter list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "banned",
+    "passwords",
+    "twitter",
+    "black",
+    "list"
+  ],
+  "author": "Alberto Kato",
+  "license": "MIT"
+}
