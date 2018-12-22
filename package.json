@@ -1,18 +1,22 @@
 {
-  "name": "banned-passwords",
-  "version": "1.0.0",
-  "description": "Check for banned passwords. Based on twitter list.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "banned",
-    "passwords",
-    "twitter",
-    "black",
-    "list"
-  ],
-  "author": "Alberto Kato",
-  "license": "MIT"
+	"name": "banned-passwords",
+	"version": "1.0.0",
+	"description": "Verify if a password is in the Twitter's List Of Banned Passwords.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"banned",
+		"passwords",
+		"twitter",
+		"black",
+		"list"
+	],
+	"author": "Alberto Kato",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ASKJR/banned-passwords.git"
+	}
 }
